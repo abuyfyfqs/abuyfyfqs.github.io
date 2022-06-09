@@ -1,0 +1,46 @@
+nav { word-spacing: 10ch; font-size: 0.65cm; font-style: italic;  background-color: rgb(42, 126, 165); font table-layout: border: ;}
+
+td {border: 4p px solid black;}
+
+h1{margin-left: 20cm;}
+
+h4 {margin-left: 15cm; font-family: 'Courier New', Courier, monospace; background-color: rgb(120, 171, 247);}
+
+.imghaziq {
+    width: 10cm; height: 4cm; margin-top: -30cm;
+}
+
+.kehadiran {width: 10cm; height: 10cm}
+.table { border= 100%; style=width: 100%;}
+
+.marrybrown {width: 10cm; height:10cm;}
+
+.takraw {width: 10cm; height: 10cm;}
+
+.bundle {width: 10cm; height: 10cm;}
+.SEPAK {width: 10cm; height: 10cm;}
+.kursus {width: 10cm; height: 10cm;}
+.pengawas {width: 10cm; height: 10cm;}
+.tampar {width: 10cm; height: 10cm;}
+.scouts {width: 10cm; height: 10cm;}
+
+
+body {background-color: rgb(156, 218, 247);}
+
+.imgsrc {width: 5cm; height: 10cm;}
+
+h2 {text-align: center; background-color: aliceblue; margin-top: 0.5%; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-size:large;}
+
+h3 {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+ 
+.modified-img{
+    width: 10%; height: 10%; margin-left: 42%;
+object-position: center top;}
+
+.aboutme.html {background-color: bisque;}
+
+footer {background-color: rgb(205, 196, 255);}
+
+p {font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; font-size: larger; margin-top: 2ch;}
+
+footer {margin-top: 2cm;}
